@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C979B8AB2326F40E003E9671 /* IGVimeoExtractor.m in Sources */ = {isa = PBXBuildFile; fileRef = C979B8A92326F40E003E9671 /* IGVimeoExtractor.m */; };
-		C979B8AC2326F40E003E9671 /* IGVimeoExtractor.h in Headers */ = {isa = PBXBuildFile; fileRef = C979B8AA2326F40E003E9671 /* IGVimeoExtractor.h */; };
+		C979B8AC2326F40E003E9671 /* IGVimeoExtractor.h in Headers */ = {isa = PBXBuildFile; fileRef = C979B8AA2326F40E003E9671 /* IGVimeoExtractor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
